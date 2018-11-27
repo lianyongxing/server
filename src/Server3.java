@@ -28,7 +28,7 @@ public class Server3 {
     public void init(){
 
         try {
-            ServerSocket serverSocket = new ServerSocket(PORT,10, InetAddress.getByName("192.168.19.158"));
+            ServerSocket serverSocket = new ServerSocket(PORT,10, InetAddress.getByName("127.0.0.1"));
             //serverSocket.bind(192.168.19.158);
             while (true) {
                 // 一旦有堵塞, 则表示服务器与客户端获得了连接

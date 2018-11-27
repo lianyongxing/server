@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d758b6be-21ca-4aca-b79c-7da5f2251cf4" name="Default Changelist" comment="" />
+    <list default="true" id="d758b6be-21ca-4aca-b79c-7da5f2251cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Server/Server3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Server/Server3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recvfiles/2018-11-16 20:25:32.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recvfiles/2018-11-16 20:26:43.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recvfiles/2018-11-16 20:27:54.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Server3.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,25 +55,26 @@
     <session id="491634405">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="310" />
+          <entry key="java" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="310" />
+          <entry key="JAVA" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="71" />
+          <entry key="Image" value="81" />
           <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
@@ -76,7 +84,7 @@
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="PNG" value="32" />
+          <entry key="PNG" value="42" />
           <entry key="java" value="5" />
           <entry key="jpeg" value="17" />
           <entry key="jpg" value="15" />
@@ -87,34 +95,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Server3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="251">
+              <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:25:32.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:26:43.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:27:54.PNG">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Server1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="848">
+            <state relative-caret-position="431">
               <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -141,6 +134,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -161,6 +157,7 @@
     <option name="width" value="1440" />
     <option name="height" value="849" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -180,11 +177,6 @@
               <item name="server" type="462c0819:PsiDirectoryNode" />
               <item name="recvfiles" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Server" type="b2602c69:ProjectViewProjectNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,7 +186,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542371334436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542637064644" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -359,17 +351,18 @@
       <workItem from="1542117103690" duration="1945000" />
       <workItem from="1542290850709" duration="11515000" />
       <workItem from="1542371005887" duration="323000" />
+      <workItem from="1542617442560" duration="2204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13783000" />
+    <option name="totallyTimeSpent" value="15987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="849" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -379,7 +372,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32893" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37648612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3989432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,14 +400,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 11:47:48.jpg" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 11:49:51.png" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 11:49:41.png" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 12:26:03.png" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:12:49.jpg" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:12:59.jpg" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:16:20.jpeg" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:16:27.jpeg" />
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:18:12.jpeg" />
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:18:22.jpeg" />
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 13:18:32.jpeg" />
@@ -436,63 +421,24 @@
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:28:22.PNG" />
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:28:32.PNG" />
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:28:41.PNG" />
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:23.PNG">
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:23.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:03.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:42.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:28:25.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:28:40.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:54:56.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:55:06.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:59:53.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:59:40.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:01:47.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:01:59.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:23:59.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:29:43.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:37:10.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:37:00.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:49:21.PNG" />
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:27:54.PNG">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:03.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 17:43:42.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:28:25.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:28:40.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:54:56.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:55:06.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:59:53.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 18:59:40.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:01:47.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:01:59.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:23:59.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:29:43.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:37:10.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:37:00.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 19:49:21.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -501,21 +447,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Server3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:26:43.PNG">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:25:32.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:27:54.PNG">
+    <entry file="file://$PROJECT_DIR$/src/Server1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:51:38.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-16 20:26:43.PNG">
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:51:57.PNG">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:52:14.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:58:12.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:57:57.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:57:22.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 16:57:39.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recvfiles/2018-11-19 20:26:52.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
